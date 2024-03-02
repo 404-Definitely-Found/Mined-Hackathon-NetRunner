@@ -46,7 +46,6 @@ The application utilizes SQLite for storing and managing data related to user up
    ``` bash
    pip install -r requirements.txt
 
-
 ## Core Features
 
 

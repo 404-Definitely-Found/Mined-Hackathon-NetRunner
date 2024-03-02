@@ -6,12 +6,8 @@ Resume Revealer is a web-based application designed to streamline the resume ana
 
 ## Problem statement
 
-### primary challenge
+### Primary challenge
 Develop a comprehensive resume parser, "ResumeRevealer," capable of extracting detailed information from resumes in various formats (PDF, JPG, HTML, DOC, etc.). The parser should accurately classify text into distinct sections (e.g., education, work experience, skills) and sequence them based on dates, where available.
-
-
-### Standardization challenge
-Enhance the "ResumeRevealer" to standardize different job titles and occupations against the O-NET database, ensuring a consistent taxonomy across parsed resumes.
 
 
 ### Standardization challenge

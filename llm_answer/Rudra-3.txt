@@ -1,0 +1,8 @@
+Anami Iqbal has held the following job titles in the given timeline:
+
+1. Data Science Intern at Hitachi Energy (May - August 2022)
+2. Data Analysis Research Associate at Energy Informatics Group, National Centre in Big Data & Cloud Computing (November 2019 - April 2021)
+3. (Not explicitly mentioned, but can be inferred as) Master's Student at Carnegie Mellon University (December 2022)
+4. Bachelor's Student at Lahore University of Management Sciences (June 2018)
+
+So the answer would be: Data Science Intern, Data Analysis Research Associate, Master's Student, Bachelor's Student.

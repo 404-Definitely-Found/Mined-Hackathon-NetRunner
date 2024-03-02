@@ -1,0 +1,4 @@
+Based on the provided context, the following are the projects Januka Pandey Gautam has worked on:
+
+1. At&T, New York, NY (Jun 2020 - Present) - Developed Spark jobs using Scala, configured Spark Streaming, imported and exported data into HDFS and HIVE, created Hive Tables, wrote Hive UDFs, implemented workflows using Apache Oozie, worked with NoSQL databases like HBase and MongoDB, and used Hive and PIG for data analysis.
+2. Northern Trust, Chicago, IL (Apr 2017 – Mar 2020) - Installed and configured Hadoop MapReduce, HDFS, imported and exported data into HDFS, Pig, Hive, and HBase using Sqoop, managed and reviewed Hadoop log files, loaded and transformed large

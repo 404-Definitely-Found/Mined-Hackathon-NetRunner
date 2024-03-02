@@ -1,0 +1,5 @@
+Anami Iqbal is a Master's degree candidate in Information Systems Management with a focus on Business Intelligence & Data Analytics (Data Science) at Carnegie Mellon University (CMU) in Pittsburgh, PA. They are expected to graduate in December 2022. Relevant coursework includes Introduction to Deep Learning, Big Data & Large Scale Computing, Unstructured Data Analytics, Machine Learning for Problem Solving, Interactive Data Science, Distributed Systems.
+
+Anami also holds a Bachelor of Science (Honors) degree in Management Science from Lahore University of Management Sciences (LUMS) in Lahore, Pakistan, which they received in June 2018.
+
+Anami has a strong foundation in functional skills such as Machine Learning, Deep Learning, Natural Language Processing (NLP), Artificial Intelligence, A/B Testing, ETL, Data Visualization, Data Engineering, Statistics
